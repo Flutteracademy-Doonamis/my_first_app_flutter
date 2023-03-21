@@ -2,6 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 
+import 'package:my_first_app_flutter/ui/local_widgets/button_widget.dart';
 import 'package:my_first_app_flutter/ui/screens/page_2.dart';
 
 int counter = 0;
